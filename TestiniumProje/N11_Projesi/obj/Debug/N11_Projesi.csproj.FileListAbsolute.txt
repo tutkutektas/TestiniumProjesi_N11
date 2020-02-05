@@ -1,0 +1,10 @@
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\obj\Debug\N11_Projesi.csprojAssemblyReference.cache
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\obj\Debug\N11_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\bin\Debug\N11_Projesi.exe.config
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\bin\Debug\N11_Projesi.exe
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\bin\Debug\N11_Projesi.pdb
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\bin\Debug\WebDriver.dll
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\bin\Debug\WebDriver.xml
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\obj\Debug\N11_Projesi.csproj.CopyComplete
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\obj\Debug\N11_Projesi.exe
+C:\Users\tutku\OneDrive\Belgeler\GitHub\TestiniumProjesi_N11\TestiniumProje\N11_Projesi\obj\Debug\N11_Projesi.pdb
