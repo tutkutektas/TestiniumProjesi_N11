@@ -10,7 +10,7 @@ namespace N11_Projesi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ilk");
+            
         }
     }
 }
