@@ -31,6 +31,9 @@ namespace N11_Projesi
                 case "IE":
                     isSuccess = helpers.TestStartIE();
                     break;
+                case "Safari":
+                    isSuccess = helpers.TestStartSafari();
+                    break;
             }
             Console.WriteLine(" ");
             if (isSuccess.IsSuccess == true)
