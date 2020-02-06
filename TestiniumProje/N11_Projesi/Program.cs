@@ -20,7 +20,6 @@ namespace N11_Projesi
                 case "None":
                     break;
               
-             
                 case "Firefox":
                     isSuccess = helpers.TestStartFirefox();
                     break;
@@ -29,6 +28,9 @@ namespace N11_Projesi
                     isSuccess = helpers.TestStartChrome();
                     break;
 
+                case "IE":
+                    isSuccess = helpers.TestStartIE();
+                    break;
             }
             Console.WriteLine(" ");
             if (isSuccess.IsSuccess == true)
